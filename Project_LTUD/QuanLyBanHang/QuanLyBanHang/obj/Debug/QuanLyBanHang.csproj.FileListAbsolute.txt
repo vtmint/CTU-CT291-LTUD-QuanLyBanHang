@@ -1,0 +1,85 @@
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangnhap.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmAdmin.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmLapHoaDon.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmMatHang.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhanVien.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmKhachHang.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\QuanLyBanHang\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhaCungCap.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmAdmin.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangnhap.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmKhachHang.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmLapHoaDon.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmMatHang.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhaCungCap.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhanVien.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+E:\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmAdmin.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangnhap.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmKhachHang.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmLapHoaDon.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmMatHang.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhaCungCap.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhanVien.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmAdmin.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangnhap.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmKhachHang.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmLapHoaDon.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmMatHang.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhaCungCap.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhanVien.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\vthch\Documents\Zalo Received Files\Project_LTUD\Project_LTUD\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmAdmin.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmDangnhap.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmKhachHang.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmLapHoaDon.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmMatHang.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhaCungCap.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmNhanVien.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.FrmThongKe.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\workspace\2023-2024 HK1\CT291-Lập Trình Ứng Dụng\Đồ Án\N1_VoTranMinhTan\Project_LTUD\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
